@@ -1,0 +1,3 @@
+Hello America
+
+This is the third file of the test sample for GIT
